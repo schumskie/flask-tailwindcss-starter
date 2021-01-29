@@ -3,3 +3,5 @@ node_modules/
 app/static/.webassets-cache/
 app/static/gen/
 .env
+*.pyc
+
